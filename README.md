@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # Task-Management
-=======
+
 Prerequisite:
         * Python 3.8.0+
         * psql(PostgreSQL) 11.5
