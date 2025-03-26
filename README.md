@@ -67,5 +67,4 @@ $ python manage.py migrate
 Run servers:
 
  $ python manage.py runserver
- 
->>>>>>> main
+
