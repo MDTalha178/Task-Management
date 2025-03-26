@@ -60,11 +60,6 @@ ENV setup:
          
          DJANGO_SECRET_KEY="*******"
 
-         
-         #for redis database
-         REDIS_URL= '*********'
-         REDIS_PORT='********'
-         PASSWORD='**************'
 
 DB migrations:
 
